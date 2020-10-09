@@ -40,7 +40,7 @@ In this paper, we will discuss the following:
 5. The next steps for future researchers 
 
 Full code and data supporting this analysis is available at:
-https://github.com/yang-xiaoyan/Political-Orientation-of-Canadian-University-Students-simulated-
+https://github.com/Alen-Mitrovski/Political-Orientation-of-Canadian-University-Students
 
 ## Survey Methodology 
 
